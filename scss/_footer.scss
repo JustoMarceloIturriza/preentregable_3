@@ -1,0 +1,26 @@
+/*Estilos del Footer*/
+
+.footer {
+    background-color: #212121;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .footerinformacion {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer h3 {
+    font-size: large;
+    margin-bottom: 10px;
+  }
+  
+  .infoContacto {
+    margin: 5px 0px;
+    font-size: medium;
+  }
+  
